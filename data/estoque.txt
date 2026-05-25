@@ -1,0 +1,5 @@
+Teclado,101,10,150
+Lapis,102,50,2.5
+Caderno,103,20,15.9
+Teclado,101,10,150
+caneta,101,10,150
